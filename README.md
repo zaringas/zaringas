@@ -4,6 +4,8 @@
 
 # Hi, I'm Zarin 👋
 
+<img width="1015" height="571" alt="image" src="https://github.com/user-attachments/assets/6eaf02de-8373-4cdf-8715-08b8cb9cb217" />
+
 **Aspiring Bug Bounty Hunter | Web Security Researcher**
 
 I'm actively studying web vulnerabilities with a strong focus on OWASP Top 10.  
